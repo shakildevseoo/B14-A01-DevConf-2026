@@ -22,14 +22,14 @@
 
 ### 🔹 Meet the Speakers Section
 
-- [] Centered section heading ("Meet the Speakers")
-- [] A 2x2 grid of speaker cards (minimum 4 speakers)
-- [] Each card must include:
+- [x] Centered section heading ("Meet the Speakers")
+- [x] A 2x2 grid of speaker cards (minimum 4 speakers)
+- [x] Each card must include:
 
-  - [] A speaker photo
-  - [] A small category/track label (e.g. AI/ML, Cloud & DevOps, Frontend, Security)
-  - [] Speaker name
-  - [] Speaker title/company
+  - [x] A speaker photo
+  - [x] A small category/track label (e.g. AI/ML, Cloud & DevOps, Frontend, Security)
+  - [x] Speaker name
+  - [x] Speaker title/company
 
 ---
 
