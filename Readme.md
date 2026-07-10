@@ -5,9 +5,9 @@
 
 ### 🔹 Navbar Section
 
-- [] Logo aligned to the left ("DEVCONF 2026")
-- [] Menu items centered (Speakers, Schedule, Tracks, Venue, Blog)
-- A "Register Now" button aligned to the right
+- [x] Logo aligned to the left ("DEVCONF 2026")
+- [x] Menu items centered (Speakers, Schedule, Tracks, Venue, Blog)
+- [x] A "Register Now" button aligned to the right
 
 ---
 

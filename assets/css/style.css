@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+ /* Reusable Style  Start*/
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+  .btn{
+    color: #FFFFFF;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    background-color: #1D4ED8;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+  }
+
+
+
+
+ /* Reusable Style  End*/
+
+header {
+    padding: 20px;
+}
+header nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+header-logo {}
+header-logo img{
+    max-width: 100%;
+    object-fit: cover;
+    color: black;
+}
+
+.menu-items{}
+.menu-items ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+.menu-items ul li{}
+.menu-items ul li a{
+text-decoration:  none;
+color: #575757;
+font-weight: 500;
+font-size: 18px;
+
+}
+.div-btn{
+}
+ .div-btn button{
+   
+ }
