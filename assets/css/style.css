@@ -1,18 +1,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    
   
 }
 
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-}
+
  /* Reusable Style  Start*/
 
 .container {
@@ -57,6 +58,7 @@ header-logo img{
     display: flex;
     gap: 10px;
     list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .menu-items ul li{}
 .menu-items ul li a{
@@ -71,3 +73,34 @@ font-size: 18px;
  .div-btn button{
    
  }
+
+ .hero-section{
+
+ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/banner.jpg");
+  width: 100%;
+  min-height: 80vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ }
+ .hero-section .content{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 700px;
+    padding: 50px;
+     color: #FFFFFF;
+    
+   
+    h1{
+        margin: 8px;
+        font-size: 40px;
+        
+
+    }
+    
+ }
+ .hero-section button{
+    margin-top: 250px;
+ }
+ .hero-section{}

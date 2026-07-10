@@ -13,10 +13,10 @@
 
 ### 🔹 Banner (Hero) Section
 
-- [] A full-width dark background image with overlay
-- [] Centered bold multi-line heading ("Code. *Connect*. Create") — style one word (e.g. "Connect") in italics for emphasis
-- [] Centered supporting paragraph text below the heading
-- [] One "Register Now" button, centered, below the text
+- [x] A full-width dark background image with overlay
+- [x] Centered bold multi-line heading ("Code. *Connect*. Create") — style one word (e.g. "Connect") in italics for emphasis
+- [x] Centered supporting paragraph text below the heading
+- [x] One "Register Now" button, centered, below the text
 
 ---
 
