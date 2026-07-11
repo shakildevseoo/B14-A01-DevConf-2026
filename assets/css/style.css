@@ -36,6 +36,15 @@
 
 
 
+  .btn-design{
+    padding: 10px 5px;
+    font-weight: bold;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+  }
+
 
  /* Reusable Style  End*/
 
@@ -181,3 +190,84 @@ font-size: 18px;
 
 
  /* speakers-section  end*/
+
+
+ /* Pricing Plan Start */
+
+.pricing-plan{
+
+    .some-info{
+        text-align: center;
+        margin-top: 5px;
+    }
+}
+
+
+.pricing-card-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    padding: 15px;
+}
+
+
+
+.pricing-card-item{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid #dbd6d6;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+
+.pricing-divider{
+    width: 100%;
+}
+
+
+ .plan-features{
+    list-style: inside;
+
+    li{
+        padding: 8px;
+    }
+ }
+
+ .plan-price{
+    font-size: 28px;
+    font-weight: bolder;
+ }
+
+
+.pricing-card-item2{
+    background-color: #0D1B2A;
+    color: #c2b8b8;
+
+    .plan-price{
+        color: #FFFFFF;
+    }
+}
+
+
+ .btn-primary{
+    border: 1px solid #2563EB;
+    color: #2563EB;
+    background-color: #FFFFFF;
+ }
+
+.btn-secondary {
+    background-color: #2563EB;
+    color: #FFFFFF;
+}
+ 
+
+.btn-team{
+    background-color: #FFFFFF;
+    border: 1px solid #c2b8b8;
+}
+   
+  
+ /* Pricing Plan End */

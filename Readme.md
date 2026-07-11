@@ -31,6 +31,7 @@
   - [x] Speaker name
   - [x] Speaker title/company
 
+
 ---
 
 ### 🔹 Secure Your Spot (Pricing) Section
