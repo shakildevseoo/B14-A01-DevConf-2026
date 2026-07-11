@@ -36,15 +36,15 @@
 
 ### 🔹 Secure Your Spot (Pricing) Section
 
-- [] Centered section heading ("Secure Your Spot") with a subtitle
-- [] Three pricing cards in a row (Standard, Pro, Team)
-- [] The middle/featured plan (Pro) should be visually highlighted (different background color)
-- [] Each card must include:
+- [x] Centered section heading ("Secure Your Spot") with a subtitle
+- [x] Three pricing cards in a row (Standard, Pro, Team)
+- [x] The middle/featured plan (Pro) should be visually highlighted (different background color)
+- [x] Each card must include:
 
-  - [] Plan name/label
-  - [] Price
-  - [] A bullet list of included features
-  - [] A button at the bottom
+  - [x] Plan name/label
+  - [x] Price
+  - [x] A bullet list of included features
+  - [x] A button at the bottom
 
 ---
 
