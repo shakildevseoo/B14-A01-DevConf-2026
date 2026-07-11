@@ -271,3 +271,41 @@ font-size: 18px;
    
   
  /* Pricing Plan End */
+
+
+
+
+ /* Footer Section Start */
+
+footer{
+    background-color: #0D1B2A;
+    color: #d6d6d6;
+   
+.footer-content{
+      display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+
+
+    ul{
+        list-style: none;
+        display: flex;
+        gap: 40px;
+
+
+
+        li a{
+            text-decoration:  none;
+            color: #FFFFFF;
+            
+        }
+    }
+}
+
+
+
+
+ /* Footer Section End */

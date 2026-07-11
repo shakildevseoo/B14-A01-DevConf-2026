@@ -50,10 +50,10 @@
 
 ### 🔹 Footer Section
 
-- [] Logo on the left
-- [] Social media links with icons on the right
-- [] A horizontal divider
-- [] Copyright message below the divider
+- [x] Logo on the left
+- [x] Social media links with icons on the right
+- [x] A horizontal divider
+- [x] Copyright message below the divider
 
 ---
 
