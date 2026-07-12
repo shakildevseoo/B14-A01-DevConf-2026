@@ -317,6 +317,9 @@ footer{
 
 .hackaton-section{
     background-color: #010a1e;
+   border-top-left-radius: 12px;
+   border-top-right-radius: 12px;
+   padding: 20px;
 }
 .hackaton-header-content{
    text-align: center; 
@@ -465,12 +468,25 @@ footer{
 
 
    .hackathon-cta{
-     color: #FFFFFF;
-    border: 1px solid red;
+     
     width: 80%;
     margin: auto;
     text-align: center;
     padding: 20px;
+
+    button{
+        margin-top: 15px;
+    
+
+        a{
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+    }
+    p{
+        color: #FFFFFF;
+        margin-top: 15px;
+    }
    }
 
 
