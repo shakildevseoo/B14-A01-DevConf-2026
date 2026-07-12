@@ -387,10 +387,11 @@ footer{
   .hackathon-timeline-main{
    width: 80%;
    margin: auto;
+   
   }
  .hackathon-timeline{
     display: flex;
-    color: wheat;
+    color: white;
     justify-content: space-around;
     padding: 50px;
 
@@ -400,12 +401,32 @@ footer{
         align-items: center;
         gap: 8px;
 
-        .fa-trophy{
-            color: #f0ad33;
+        i{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #284ba5;
+            width: 50px;
+            height: 50px;
+            border : 1px solid #3355e0;
+            border-radius: 50%;
+            z-index: 99;
+            font-size: 20px;
+           
         }
+
     }
  }
-
+.timeline-devider{
+   position: relative;
+  top: 73px;
+  width: 82%;
+  margin: auto;
+  color: #FFFFFF;
+  border: 1px solid rgba(192, 192, 192, 0.5);
+  
+  
+}
 
 
 
@@ -418,7 +439,13 @@ footer{
     display: flex;
     color: wheat;
     justify-content: space-around;
-    padding: 50px;
+   
+   }
+
+   .track-item{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
    }
  
 
