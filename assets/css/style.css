@@ -309,3 +309,98 @@ footer{
 
 
  /* Footer Section End */
+
+
+
+
+/* Hackathon Section Start   */
+
+.hackaton-section{
+    background-color: #010a1e;
+}
+.hackaton-header-content{
+   text-align: center; 
+   padding: 20px 0;
+ color: #FFFFFF;
+
+   h2{
+    margin: 10px 0;
+   }
+}
+
+
+
+
+
+
+.hackathon-stats{
+     display: flex;
+     justify-content: space-around;
+      background-color: #131f3d;
+      padding: 20px;
+      width: 90%;
+      margin: auto ;
+      border-radius: 15px;
+      border: 1px solid red;
+}
+.hackathon-stats .hackaton-stat{
+  
+
+  
+
+
+    p{
+        color: #FFFFFF;
+    }
+    span{
+        color: rgba(235, 235, 235, 0.5);
+    }
+    
+
+ }
+
+  .hackathon-timeline-main{
+   width: 80%;
+   margin: auto;
+  }
+ .hackathon-timeline{
+    display: flex;
+    color: wheat;
+    justify-content: space-around;
+    padding: 50px;
+ }
+
+
+
+    
+ .hackathon-tracks-main{
+     width: 80%;
+   margin: auto;
+ }
+   .hackathon-tracks{
+    display: flex;
+    color: wheat;
+    justify-content: space-around;
+    padding: 50px;
+   }
+ 
+
+
+   .hackathon-cta{
+     color: #FFFFFF;
+    border: 1px solid red;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+   }
+
+
+
+
+
+
+/* Hackathon Section End   */
+
+
+
