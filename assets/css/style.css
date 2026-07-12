@@ -385,7 +385,7 @@ footer{
 
 
   .hackathon-timeline-main{
-   width: 80%;
+   width: 85%;
    margin: auto;
    
   }
@@ -394,6 +394,7 @@ footer{
     color: white;
     justify-content: space-around;
     padding: 50px;
+  
 
     div{
         display: flex;
@@ -405,14 +406,16 @@ footer{
             display: flex;
             justify-content: center;
             align-items: center;
-            color: #284ba5;
+            color: #0048ff;
             width: 50px;
             height: 50px;
-            border : 1px solid #3355e0;
+            border : 2px solid #3355e0;
             border-radius: 50%;
             z-index: 99;
             font-size: 20px;
-           
+        
+            background-color: #020b1e;
+            margin-left: -15px;
         }
 
     }
@@ -420,9 +423,9 @@ footer{
 .timeline-devider{
    position: relative;
   top: 73px;
-  width: 82%;
+  width: 80%;
   margin: auto;
-  color: #FFFFFF;
+  
   border: 1px solid rgba(192, 192, 192, 0.5);
   
   
@@ -432,7 +435,7 @@ footer{
 
     
  .hackathon-tracks-main{
-     width: 80%;
+     width: 70%;
    margin: auto;
  }
    .hackathon-tracks{
@@ -443,9 +446,20 @@ footer{
    }
 
    .track-item{
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+    display: inline-flex;
+    background-color: #131f3d;
+    padding: 10px 15px;
+    border-radius: 8px;
+    justify-content: center;
+    border: 1[x solid ];
+
+    span{
+        margin-left: 5px;
+    }
+
+    i{
+        color: #528be1;
+    }
    }
  
 
